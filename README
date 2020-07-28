@@ -1,8 +1,1 @@
-install nodejs
-install mysql
-
-
-run command `npm install` to install mysql plugin
-create database in mysql: CREATE DATABASE verzeo;
-run command npm start to start the server
-open site at localhost:3000
+This is about an Interior Designing webpage project given to us during Intern at Verzeo.We as a team of 8 members designed and developed this project.
